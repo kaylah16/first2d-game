@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|c:\\users\\kayla\\downloads\\coding and other things\\class example\\assets\\scripts\\object_spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\object_spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|c:\\users\\kayla\\downloads\\coding and other things\\class example\\assets\\scripts\\new_bomb_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\new_bomb_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\assets\\scripts\\bomb_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bomb_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\assets\\scripts\\player_dead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player_dead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\assets\\scripts\\batteries_producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\batteries_producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\assets\\scripts\\robot_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\robot_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\assets\\scripts\\score_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BDAE355-9FAE-09FD-705C-6AE65DA3EDDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "new_bomb_spawner.cs",
+              "DocumentMoniker": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\new_bomb_spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\new_bomb_spawner.cs",
+              "ToolTip": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\new_bomb_spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\new_bomb_spawner.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T00:04:44.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "object_spawn.cs",
+              "DocumentMoniker": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\object_spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\object_spawn.cs",
+              "ToolTip": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\object_spawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\object_spawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T02:40:41.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "batteries_producer.cs",
+              "DocumentMoniker": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\batteries_producer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\batteries_producer.cs",
+              "ToolTip": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\batteries_producer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\batteries_producer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:55:52.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Robot_move.cs",
+              "DocumentMoniker": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\Robot_move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Robot_move.cs",
+              "ToolTip": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\Robot_move.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Robot_move.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:31:32.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bomb_spawner.cs",
+              "DocumentMoniker": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\bomb_spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\bomb_spawner.cs",
+              "ToolTip": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\bomb_spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\bomb_spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:56:26.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "player_dead.cs",
+              "DocumentMoniker": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\player_dead.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player_dead.cs",
+              "ToolTip": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\player_dead.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player_dead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T21:01:04.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "score_manager.cs",
+              "DocumentMoniker": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\score_manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\score_manager.cs",
+              "ToolTip": "C:\\Users\\kayla\\Downloads\\Coding and other things\\Class example\\Assets\\Scripts\\score_manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\score_manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:34:06.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
