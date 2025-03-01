@@ -6,9 +6,8 @@ public class enemy_spawn : MonoBehaviour
 {
     public GameObject itemPrefab;
 
-    // to spawn objects
-    public float spawnOffset;
-    // Start is called before the first frame update
+    // to spawn object
+    public float spawn;
     void Start()
     {
          for(int i = 0; i < 7; i++)
@@ -28,8 +27,8 @@ public class enemy_spawn : MonoBehaviour
         // need position to spawn batteries
         float xPos = Random.Range(-7f, 7f); 
         float yPos = Random.Range(-2.5f, -1f);
-        float xRadius = xPos * spawnOffset;
-        float yRadius = yPos * spawnOffset;
+        float xRadius = xPos * spawn;
+        float yRadius = yPos * spawn;
         Vector3 RandomPos = new Vector3 (xRadius, yRadius, -1);
         Instantiate(itemPrefab, RandomPos, Quaternion.identity);
 

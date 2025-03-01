@@ -6,8 +6,8 @@ public class new_bomb_spawner : MonoBehaviour
 {
     public GameObject itemPrefab;
 
-    // to spawn objects
-    public float spawnOffset;
+    // to spawn objects and want to sperate items
+    public float spawn;
     // Start is called before the first frame update
     void Start()
     {
@@ -33,8 +33,8 @@ public class new_bomb_spawner : MonoBehaviour
 
         foreach (float x in xPosition)
         {
-            xRadius = x * spawnOffset;
-            yRadius = yPos * spawnOffset;
+            xRadius = x * spawn;
+            yRadius = yPos * spawn;
             Vector3 RandomPos = new Vector3(xRadius, yRadius, -1);
             Instantiate(itemPrefab, RandomPos, Quaternion.identity);
         }
